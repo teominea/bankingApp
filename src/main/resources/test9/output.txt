@@ -1,0 +1,5 @@
+Insufficient amount in account for buying premium option
+User with mary.jhonson@email.com doesn't exist
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1720.00"},{"currencyName":"EUR","amount":"2000.00"}]}
+{"stocksToBuy":["GOOGL","JPM","ABNB","MSFT","COST","T","V","NFLX","META","GOOG","NVDA","BAC","KO","TMUS","CMCSA","PG","ADBE","AMZN","WMT"]}
+{"stocks":[{"stockName":"T","amount":100}],"accounts":[{"currencyName":"USD","amount":"177.67"},{"currencyName":"EUR","amount":"2000.00"}]}

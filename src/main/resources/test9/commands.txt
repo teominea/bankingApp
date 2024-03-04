@@ -1,0 +1,13 @@
+CREATE USER john.doe@email.com John Doe 1401 Stoltenberg Islands Geralynstad SD 36945
+ADD ACCOUNT john.doe@email.com USD
+ADD ACCOUNT john.doe@email.com EUR
+ADD MONEY john.doe@email.com USD 70
+BUY PREMIUM john.doe@email.com
+BUY PREMIUM mary.jhonson@email.com
+ADD MONEY john.doe@email.com USD 4930
+BUY PREMIUM john.doe@email.com
+EXCHANGE MONEY john.doe@email.com USD EUR 2000
+LIST PORTFOLIO john.doe@email.com
+RECOMMEND STOCKS
+BUY STOCKS john.doe@email.com T 100
+LIST PORTFOLIO john.doe@email.com
